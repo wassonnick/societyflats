@@ -1,0 +1,19 @@
+{
+  "name": "societyflats-v1-prototype",
+  "version": "1.0.0",
+  "description": "SocietyFlats v1.0 premium proptech frontend prototype for Gurgaon and Bangalore society rentals.",
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
