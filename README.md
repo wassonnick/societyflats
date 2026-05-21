@@ -59,3 +59,31 @@ Next build phase:
 3. Add PostgreSQL database migrations.
 4. Add authentication and role-based dashboards.
 5. Connect frontend to backend APIs.
+
+## Sprint 2 Premium Real Estate Identity Upgrade
+
+This package upgrades the V1 prototype with:
+
+- Full-bleed image hero with overlay search
+- Trust metrics strip
+- Featured society marketplace cards
+- Lifestyle discovery section
+- Rental intelligence charts/progress cards
+- Society-first property card hierarchy
+- Premium society detail hero
+- Why-this-society conversion block
+- Expanded SEO footer
+- Improved visual depth using warm/sand sections
+
+Run locally:
+
+```bash
+npm install
+npm run dev
+```
+
+Build for Vercel:
+
+```bash
+npm run build
+```
